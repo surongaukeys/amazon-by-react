@@ -67,7 +67,7 @@
     "element-react": "^1.1.1",
     "element-theme-default": "^1.4.0",
     "normalize.css": "^4.0.0",
-    "react": "^15.0.0",
-    "react-dom": "^15.0.0"
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
   }
 }
